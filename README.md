@@ -1,4 +1,4 @@
-# Batch MP3 Renamer 🎶
+# Batch MP3 Renamer for DJs 🎶
 A Python script that uses EyeD3 to batch rename MP3 files based on the ID3 tags.
 
 This script standardizes the filenames of MP3 files for DJing. My preferred filenaming system is "Artist - Title (Remix title).mp3", which eliminates extraneous information, such as track number which isn't useful for DJs. Sorting the directory listing alphabetically by artist results in a well-organized collection of songs.
