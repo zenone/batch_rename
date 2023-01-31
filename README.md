@@ -15,16 +15,16 @@ This script standardizes the filenames of MP3 files for DJing. My preferred file
 ## Usage 📖
 ```python batch_rename.py [-h] [-l LOG_FILE] [-v {0,1,2}] root_dir```
 
-### Basic Usage
+### Usage
 ```python batch_rename.py /path/to/mp3/folder```
 
-### Usage With Log File
+### With Log File
 ```python batch_rename.py /path/to/mp3/folder -l /path/to/logfile.txt```
 
-### Usage With Verbosity
+### With Verbosity
 ```python batch_rename.py /path/to/mp3/folder -v 2```
 
-### Usage With Both Log File and Verbosity
+### With Both Log File and Verbosity
 ```python batch_rename.py /path/to/mp3/folder -l /path/to/logfile.txt -v 1```
 
 ## Requirements 💻
