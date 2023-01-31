@@ -12,7 +12,7 @@ This script standardizes the filenames of MP3 files for DJing. My preferred file
 - Logs errors in a separate file
 
 ## Usage 📖
-```python batch_rename.py -d <source_directory> [-v <verbosity_level>]```
+```python batch_rename.py [-h] [-l LOG_FILE] [-v {0,1,2}] root_dir```
 
 
 ## Requirements 💻
